@@ -1,15 +1,29 @@
 body {
-    background-color: blueviolet;
-}
-div .main-template-title{
-    border-color: blue;
-    border-style: dotted;
+    background-color: white;
 }
 
-div .main-template-content{
-    border-color: blue;
+.tridiview{
+    background-color: aqua;
+    list-style: none;
+}
+.main-part{
+    display: inline;
 }
 
-div .qr-and-name{
-    font-family: 'gemina-semi-italic-semi-italic', sans-serif;
+.main-template-title{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 500px;
+    font-size: 15px;
+    line-height: 17px;
+}
+
+.main-template-content{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 500px;
+    font-size: 15px;
+    line-height: 17px;
+}
+
+.qr-and-name{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
