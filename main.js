@@ -4,6 +4,8 @@ const Hapi = require('@hapi/hapi');
 const Vision = require('vision');
 const Handlebars = require('handlebars')
 
+#flyingcat
+
 const init = async () => {
 
     const server = Hapi.server({
